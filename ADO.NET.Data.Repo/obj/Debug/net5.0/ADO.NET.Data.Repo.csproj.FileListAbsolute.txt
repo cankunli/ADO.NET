@@ -1,0 +1,15 @@
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\bin\Debug\net5.0\ADO.NET.Data.Model.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ADO.NET.Data.Repo.csprojAssemblyReference.cache
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ADO.NET.Data.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ADO.NET.Data.Repo.AssemblyInfoInputs.cache
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ADO.NET.Data.Repo.AssemblyInfo.cs
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\bin\Debug\net5.0\ADO.NET.Data.Repo.deps.json
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\bin\Debug\net5.0\ADO.NET.Data.Repo.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\bin\Debug\net5.0\ref\ADO.NET.Data.Repo.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\bin\Debug\net5.0\ADO.NET.Data.Repo.pdb
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\bin\Debug\net5.0\ADO.NET.Data.Model.pdb
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ADO.NET.Data.Repo.csproj.CoreCompileInputs.cache
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ADO.NET.Data.Repo.csproj.CopyComplete
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ADO.NET.Data.Repo.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ref\ADO.NET.Data.Repo.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Repo\obj\Debug\net5.0\ADO.NET.Data.Repo.pdb

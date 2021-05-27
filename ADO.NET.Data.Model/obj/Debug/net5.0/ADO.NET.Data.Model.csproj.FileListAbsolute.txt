@@ -1,0 +1,12 @@
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\bin\Debug\net5.0\ADO.NET.Data.Model.deps.json
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\bin\Debug\net5.0\ADO.NET.Data.Model.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\bin\Debug\net5.0\ref\ADO.NET.Data.Model.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\bin\Debug\net5.0\ADO.NET.Data.Model.pdb
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\obj\Debug\net5.0\ADO.NET.Data.Model.csprojAssemblyReference.cache
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\obj\Debug\net5.0\ADO.NET.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\obj\Debug\net5.0\ADO.NET.Data.Model.AssemblyInfoInputs.cache
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\obj\Debug\net5.0\ADO.NET.Data.Model.AssemblyInfo.cs
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\obj\Debug\net5.0\ADO.NET.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\obj\Debug\net5.0\ADO.NET.Data.Model.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\obj\Debug\net5.0\ref\ADO.NET.Data.Model.dll
+C:\Users\cancu\source\repos\ADO.NET.Data.Model\obj\Debug\net5.0\ADO.NET.Data.Model.pdb
